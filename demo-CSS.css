@@ -1,0 +1,19 @@
+p.p1{
+	color: green;
+	font-size: 24px;
+	font-style:italic; 
+}
+
+p.p2{
+	color: red;
+	font-size: 54px;
+}
+
+#special{
+	font-size: 54px;
+	color: blue;
+	text-align: center;
+}
+body{
+	background-color: green;
+}
